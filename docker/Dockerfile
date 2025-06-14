@@ -1,0 +1,2 @@
+# Placeholder Dockerfile
+FROM scratch
